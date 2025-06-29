@@ -66,6 +66,52 @@ This component summarizes the overall salary data:
 
 ## ANSWERS TO THE CASE STUDY 3 QUESTIONS
 
+### 1. Gender Distribution in the Organization (Regions & Departments)
+From your “Location by Gender” and “Gender by Department” charts:
+-	Kaduna had the highest number of employees for both genders, followed by Lagos and Abuja.
+-	Gender representation across departments was relatively balanced, but departments like Product and Legal had larger populations overall.
+-	Employees with undisclosed gender have been grouped generically (as noted), ensuring a more inclusive and accurate analysis.
+#### Takeaway: 
+Despite the media criticism, Palmoria shows general gender balance.
+
+### 2. Ratings Based on Gender
+While the charts didn’t separate ratings explicitly by gender, we can infer relationships:
+-	The “Department by Rating” chart shows that most employees were rated “Average”, which might hide individual performance differences by gender.
+-	If gender is overlaid on ratings (not shown directly), this could reveal whether one gender consistently receives lower ratings.
+
+### 3. Salary Structure and Gender Pay Gap
+The “Salary by Gender” and “Salary by Department” visuals provide strong context:
+-	Females received 52.17% of the total salary vs. 47.6% for males, indicating a positive trend toward pay equality overall.
+-	However, without knowing the number of employees per gender, this may mask disparities. For example, if more women are in higher-paying departments or roles, the overall figure may seem equal, while individual gaps persist.
+
+### 4. Compliance with the $90,000 Minimum Salary Regulation
+This wasn’t visualized directly, but can be derived using the salary data:
+•	You can filter current employees with a salary < $90,000.
+•	A bar chart by region or department can be plotted to show non-compliance.
+#### Suggestion: 
+A compliance scorecard could track progress and identify departments or regions at risk of breaching regulations.
+
+### 5. Pay Distribution Grouped by $10,000 Bands (and by Region)
+This insight wasn’t in the current visuals, but would be best shown using:
+-	Histogram to count employees in salary bands: $10K–$20K, $20K–$30K, etc.
+-	A stacked bar chart by region (e.g. Kaduna, Lagos, Abuja) showing salary spread
+This would help identify:
+-	Salary clustering in certain regions
+-	Regions with a higher concentration of low-paid or high-paid staff
+
+### 6. Bonus Calculations Based on Performance Rating
+From the KPI card:
+- 1.	Total Bonus Pay: $2,177,976
+- 2.	Total Salary: $69,723,670
+Since bonuses are based on a rating-based rule table:
+-	The following were calculated:
+  1. Bonus = Salary × Rating-Based %, and
+  2. Total Compensation = Salary + Bonus
+-	To complete the request:
+  1. Total bonuses and compensation per employee was calculated.
+  2. Aggregate results per region for executive review was displayed on the dashboard.
+
+
 
 
 
