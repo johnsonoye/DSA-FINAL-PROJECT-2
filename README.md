@@ -1,5 +1,7 @@
 # DSA-FINAL-PROJECT-2
 
+## CASE STUDY 3
+
 
 ![Visuals](https://github.com/user-attachments/assets/3f7b2f37-05c7-488a-a97e-e23f4641f425)
 
