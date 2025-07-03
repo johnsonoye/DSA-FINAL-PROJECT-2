@@ -1,6 +1,13 @@
 # DSA-FINAL-PROJECT-2
 
+
 ![Visuals](https://github.com/user-attachments/assets/3f7b2f37-05c7-488a-a97e-e23f4641f425)
+
+
+[Palmoria Group Cleaned-data.csv.xlsx](https://github.com/user-attachments/files/21043126/Palmoria.Group.Cleaned-data.csv.xlsx)
+
+
+![Cleaned Data](https://github.com/user-attachments/assets/b46145d2-2461-426b-8f42-4dc512004dbe)
 
 
 ## To analyze the attached visuals, let’s break down each chart or component systematically:
