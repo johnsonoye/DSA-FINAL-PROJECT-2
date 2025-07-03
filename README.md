@@ -9,6 +9,10 @@
 
 ![Cleaned Data](https://github.com/user-attachments/assets/b46145d2-2461-426b-8f42-4dc512004dbe)
 
+#### Formulae Used:
+        Bonus = Salary × Rating-Based % 
+
+        Total Compensation = Salary + Bonus
 
 ## To analyze the attached visuals, let’s break down each chart or component systematically:
 
